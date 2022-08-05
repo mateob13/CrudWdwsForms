@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\CrudWdwsForms\CrudWdwsForms\bin\Debug\CrudWdwsForms.exe.config
+C:\Users\PC\source\repos\CrudWdwsForms\CrudWdwsForms\bin\Debug\CrudWdwsForms.exe
+C:\Users\PC\source\repos\CrudWdwsForms\CrudWdwsForms\bin\Debug\CrudWdwsForms.pdb
+C:\Users\PC\source\repos\CrudWdwsForms\CrudWdwsForms\bin\Debug\EntityFramework.dll
+C:\Users\PC\source\repos\CrudWdwsForms\CrudWdwsForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\source\repos\CrudWdwsForms\CrudWdwsForms\bin\Debug\EntityFramework.xml
+C:\Users\PC\source\repos\CrudWdwsForms\CrudWdwsForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\source\repos\CrudWdwsForms\CrudWdwsForms\obj\Debug\CrudWdwsForms.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CrudWdwsForms\CrudWdwsForms\obj\Debug\CrudWdwsForms.Form1.resources
+C:\Users\PC\source\repos\CrudWdwsForms\CrudWdwsForms\obj\Debug\CrudWdwsForms.Properties.Resources.resources
+C:\Users\PC\source\repos\CrudWdwsForms\CrudWdwsForms\obj\Debug\CrudWdwsForms.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\CrudWdwsForms\CrudWdwsForms\obj\Debug\CrudWdwsForms.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CrudWdwsForms\CrudWdwsForms\obj\Debug\CrudWdwsForms.csproj.CopyComplete
+C:\Users\PC\source\repos\CrudWdwsForms\CrudWdwsForms\obj\Debug\CrudWdwsForms.exe
+C:\Users\PC\source\repos\CrudWdwsForms\CrudWdwsForms\obj\Debug\CrudWdwsForms.pdb
+C:\Users\PC\source\repos\CrudWdwsForms\CrudWdwsForms\obj\Debug\CrudWdwsForms.Presentation.FrmTabla.resources
